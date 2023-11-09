@@ -1,0 +1,35 @@
+body {
+            background: #6b6868;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        .country {
+            fill: rgb(29, 137, 21);
+            stroke: #075335;
+            stroke-width: 0.5;
+        }
+        .towns {
+            stroke-width: 1px;
+            background-repeat: no-repeat;
+            width: 25px;
+        }
+        .city_name {
+            fill: rgb(251, 246, 246);
+            font-size: 12px;
+        }
+        #refreshBtn {
+            position: absolute;
+            top: 900px;
+            left: 10px;
+            font-size: 15px;
+            padding: 10px;
+        }
+        #sliderContainer {
+            position: absolute;
+            top: 950px;
+            left: 10px;
+            padding: 10px;
+        }
+    
+        
