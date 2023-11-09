@@ -45,7 +45,7 @@
                         return coords[1];
                     });
 
-                // Append city names
+                // Appending the city names
                 svg.selectAll('city_name')
                     .data(data)
                     .enter()
